@@ -23,3 +23,4 @@ I ran 9 in all but more can be added. Feel free to test it out with other possib
 Here's a sample of my app working: 
 
 
+![Search Filter App](https://media.giphy.com/media/fWh8b4RHCQerY6jnAu/giphy.gif)
