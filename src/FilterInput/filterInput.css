@@ -1,0 +1,12 @@
+/*Styles the list items on the app*/
+li {
+  list-style-type: none;
+  text-align: left;
+  margin-left: 42%;
+  font-size: 1.5em;
+}
+/*Styles the text box in the app*/
+.filter {
+  width: 30%;
+  margin-left: 40%;
+}
