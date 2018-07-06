@@ -18,7 +18,7 @@ All my tests check the validity of different search results.
 
 I ran 9 in all but more can be added. Feel free to test it out with other possibilities. The tests when the test button on the bottom of the dock is pressed, here's a sample: 
 
-
+![Test Suite Gif](https://media.giphy.com/media/1ZDHjI8JBf9dr6LAeI/giphy.gif)
 
 Here's a sample of my app working: 
 
