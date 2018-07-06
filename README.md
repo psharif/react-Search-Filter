@@ -10,4 +10,4 @@ To go to the app on a local browser try this URL:__[https://0x9jro761v.codesandb
 
 If you click on the github link to sandbox on this repo at: __[https://codesandbox.io/s/github/psharif/react-Search-Filter](https://codesandbox.io/s/github/psharif/react-Search-Filter)__. 
 
-I added a bootstrap resource on mine for the input element so add this bootstrap cdn resource : __[https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css](https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css)
+I added a bootstrap resource on mine for the input element so add this bootstrap cdn resource : __[https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css](https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css)__
