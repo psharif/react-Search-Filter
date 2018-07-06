@@ -30,7 +30,7 @@ class FilterInput extends React.Component {
             placeholder="Filter..."
             onChange={this.getInput}
           />
-          <ul>{this.populateList().map(el => <li>{el}</li>)}</ul>
+          <ul>{this.populateList().map(el => <li key={el.id}>{el}</li>)}</ul>
         </form>
       </div>
     );
